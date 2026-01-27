@@ -30,7 +30,7 @@
     "babel-preset-stage-1": "^6.5.0",
     "babel-preset-stage-2": "^6.5.0",
     "babel-runtime": "^6.5.0",
-    "chat-template": "0.0.21",
+    "chat-template": "0.0.22",
     "express": "^4.13.4",
     "react": "^15.0.1",
     "react-dom": "^15.0.0",
